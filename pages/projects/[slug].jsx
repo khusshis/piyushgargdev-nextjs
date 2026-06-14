@@ -1,4 +1,5 @@
-import Head from "next/head";
+import Head
+  from "next/head";
 // import { useSession, signIn } from "next-auth/react";
 import { Container, Row, Col } from "reactstrap";
 import Browser, { Chrome } from "react-browser-ui";
